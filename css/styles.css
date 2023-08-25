@@ -396,6 +396,7 @@ p {
 .partners-section-five:hover,
 .partners-section-five:focus {
   border-color: var(--active-link-color);
+  color: var(--active-link-color);
   fill: var(--active-link-color);
 }
 /*
